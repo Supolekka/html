@@ -1,0 +1,4 @@
+.elem a[href^="http"] {
+    color: #ff0000;
+    text-decoration: none;
+}

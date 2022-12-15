@@ -1,0 +1,4 @@
+.elem a[href$=".html"] {
+    text-decoration: none;
+    color: rgba(255, 0, 0, 0.829);
+}
